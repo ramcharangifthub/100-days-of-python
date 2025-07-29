@@ -43,4 +43,4 @@ elif computer_choice > user_choice:
 elif user_choice > computer_choice:
     print("you loose")
 elif user_choice == computer_choice:
-    print("It's a tie")
+    print("It's a tiee")
