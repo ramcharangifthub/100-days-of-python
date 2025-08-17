@@ -21,4 +21,4 @@ Use `input()` to collect data from users and make your programs interactive.
 ### ✅ Python Variables
 Store and manage information by assigning values to variables, a key concept in all programming.
 
-![Image](https://github.com/user-attachments/assets/3c049553-d904-40ce-83ac-ec89e8c208a3)
+https://user-images.githubusercontent.com/98851253/154177081-2c53df2d-777b-4deb-8e38-5742ecd7282f.gif
